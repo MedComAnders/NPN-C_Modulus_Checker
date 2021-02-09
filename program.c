@@ -7,8 +7,8 @@ int main () {
    /* local variable definition */
   
   
-   long startnr = 800057896949;
-   long endnr = 800058896948;
+   long startnr = //TODO enter start NO of NPN;
+   long endnr = //TODO enter end NO of NPN;
    char ret;
    long validNPNCounter = 0;
 FILE *fp;
